@@ -14,7 +14,7 @@ public class Lab24d
 	{
 		Scanner file = new Scanner (new File("lab24d.dat"));
 
-
+		TicTacToe TTT1 = new TicTacToe("")
 
 
 
